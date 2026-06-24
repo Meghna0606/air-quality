@@ -2,7 +2,7 @@
 
 > Multi-step pollutant forecasting using a hybrid ARIMA + CNN-LSTM pipeline across 12 Beijing monitoring stations.
 
-[![Open in Colab
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Meghna0606/air-quality/blob/main/Copy_of_AIR_QUALITY.ipynb)
 
 ---
 
